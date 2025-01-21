@@ -1,0 +1,14 @@
+# Ignorar entornos virtuales
+env/
+venv/
+
+# Ignorar variables de entorno
+.env
+
+# Ignorar archivos de caché
+*.pyc
+__pycache__/
+
+# Ignorar dependencias instaladas
+*.log
+*.db
